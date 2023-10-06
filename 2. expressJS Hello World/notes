@@ -1,0 +1,132 @@
+Server made framework
+
+node JS
+With install 1 thing is NPM
+
+type (npm init)
+
+may forgot something
+
+NodeJS apps Server Side is called Package.
+
+JavaScript Called applet
+
+sometime command is long not short most of time.
+
+Package folder on root top , level , Working Directory.
+
+Programming capability ko liberaris use hoti hen.
+
+Google Search :  ExpressJS
+https://expressjs.com/
+
+
+Package.JSON must on the root in working directory in the folder.
+
+
+Express is kind of liberary and Bunch of function ,
+Express.MJS bhi Liberary he aur Framework he.
+
+Framework is just of formate difference.
+
+$ mkdir myapp
+$ cd myapp
+For making new folder .
+
+npm :  is the node package manager. jitni liberaries likhi gai hen yaha publish , Andriod app in AppStore all publisher will publish here.
+
+NPM is official is most traffic, 
+
+NPM init
+
+node JS app package khte he
+JavaScript applet
+
+Makesure your file on root working directory, not in folder
+
+Axois internet request krne k kam ata he
+
+publish developer
+
+web Browser send request to Server and get Data
+
+what is Server?
+Realtime Storage : It is in DataBase
+
+aesa system jo hr waqt on he koi request bhje th us ko dekho
+
+npm start : Package.JSON k ander ye Start ki script he wo chl jae gi
+
+Programming languages capabilities extend krne k lye 
+Moment JS time to reach 
+Express JS Is the liberary.
+
+Difference B/w Liberary and Framework
+
+NPM : is node package manager
+
+App Store me log publish wohi krte hen npm is official for liberaries
+
+Make use SUDO : is Super Do
+some command any folder create th SUDO Lagana prhta he.
+
+npm wagera k ilawa bhi aur stores hen Yarn party wagera ka.
+
+In the First place what is Server
+21st Century Eye open
+
+Web Browser Server ko request bhjta he woha se data ata he.
+
+network k through data hota he
+1 aesa system he jo har waqt on he koi request bhje th listen
+
+is Server is Hardware he ya Software
+Noushad Arzo :  anything you want to know is in Name
+
+Server :  mean Serve krna, Serve krne wala hota he.
+
+Server is not an Hardware is only software.
+
+Humadity is : Dry mode is the best
+
+Server Software : Resourses bht chahiye.
+
+IBM : any computer Hardware bnane wale companies.
+
+Server Machine is operate 24/7 hours is trha ki requirement hoti thi,
+
+Personal Computer : Robest ksm ke Computer,
+Shop wala Server Computer he ye le jao, is only Tag line , like to operate server basically is software.
+
+Server ka Software : app kahi bhi chala skte ho
+
+Response me jo hena wo single string la raha hota he.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
