@@ -9,13 +9,18 @@ import express from 'express';
 const app = express()
 const port = 3001
 
-app.get('/', (req, res) => {
+// http://192.168.210.35:3000/profile
+// 404 Error
 
-  res.send('Hello World!')
+app.get('/', (req, res) => {
+    console.log('Hello World!', new Date());
+    res.send('Hello World!' + new Date());
 })
-    
+
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+
+    console.log(`Example app listening on port ${port}`);
+    res.send('this is profile' + new Date());
 })
 
 
