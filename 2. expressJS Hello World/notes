@@ -1,7 +1,16 @@
 Server made framework
 
+npm init :  for Package.json files
+npm -v : Version
+npm start :  Code run
+npm i express : Install Express
+
+
+
 node JS
 With install 1 thing is NPM
+
+nodemon : Autometic Refresh
 
 type (npm init)
 

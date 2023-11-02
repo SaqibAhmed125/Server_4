@@ -1,0 +1,17 @@
+// {
+//   "name": "server_4",
+//   "version": "1.0.0",
+//   "description": "",
+//   "main": "server.mjs",
+//   // Main should change by the Server name
+
+//   "scripts": {
+//     "test": "echo \"Error: no test specified\" && exit 1",
+//     "start": "node server.mjs"
+//     // Start ki Script to 
+//     // Some time package ko run krne ki command too long
+
+//   },
+//   "author": "",
+//   "license": "ISC"
+// }
