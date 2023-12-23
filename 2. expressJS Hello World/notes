@@ -1,3 +1,5 @@
+Video 114, 115
+
 Server made framework
 
 npm init :  for Package.json files
@@ -119,6 +121,7 @@ Request bheje ge th ye bhje ga
 Person to touch is User Interface i.e Button
 
 API :  Application Programming Interface.
+GUI :  Graphical User Interface
 
 Programming Interface like btn AC Understand by the AC only no one could
 
@@ -138,17 +141,189 @@ Server is Machine.
 Server se API Expose. AC API
 Expose the API is HTTP API is Over the Internet can Access the this API.
 
+UI : User Interface : Mobile Touch Screen
+
+UI : interface for the user
+Programming Interface : Machine own work
+
+close source of the UI
+
+WIFI: btn search an available networks.
+our internet is residential internet: have a several restrictions.
+
+Port Forwarding krna all world me chle ga
+AWS, Google many Machines
+cloud termonology: device term these computer connected with the Internet.
+
+Internet is Inter Connected Computer.
+Cloud is Internet conncect 
+Google cloud
+AWS
+Ali Baba
+Microsoft Esured Cloud
 
 
+on other hand for home use it is too much Expenses.
+
+60 to 70 Lakh rs computer.
+Moduler hardDrive may demage.
+Ram : 80 GB
+Ram may also khrab
+Dynamic : 25K Sweeper min
 
 
+on primisess server Lakh rs Month
+Wear tear different.
+500 MB : Internet Letency avoid 
+1Lakh MB : swa 8.25 GB
+8 * 8 = 64 GBPS ka internet ho
+5 se 6 GBPS ka internet
+small Server Rusbury Pie
+at a time 2 se 4 user 
+
+8500 Seconds
+25,92,000 : 25 Lak total request rubury pie bhi approperate rhta he.
+Customer Aquisition No issue :
+Rusbri pie 50$ , 15,000, shipment ke saath 19,000
+
+Google is free 25Lak wla card lga KYC krwa do hmri
+M2 K hard Drive. Rubers system.
+Law Inforcement : Militery : 
+911 : data produce, FBI CIA
+
+On Primisses: Banks other Law inforcement dept
+
+Data Breach : 
+My data is as useless as I am
+
+FaceBook : cloud partner AWS.
+
+npm i : command for nodde modules folder npm install is also same
+
+Package-lock-json : file should not change bu hand it default maintain by own, 
+npm khud dkh raha hota he
+multiple liberaries install kuch liberaries kuch version kisi dusri k saath competable nhi ho rahe hote.
 
 
+Enviornment Variable har machine me hota he
+const port = process.env.PORT || 3000;
+Convention of port must in capital Letter.
+
+Cloud for the Google, AWS, Railways
+Cyclic allow us 3 free apps to run
 
 
+SERVER has many types:
+
+our server is Web Server
+Email Server
+Domain name Server
+Data Centers
+Data Werehouse
+FTP : File 
+Streaming 
+Broad Casting : Televesion
+RTCs Servers : Video calls
+Gaming Server: real me webServer
+
+all are webServer : Server - wire se - Wirelessly - over the Internet.
+
+WebServer : Frontend Application bat server ka koi GUI & UI nhi hoti hen
+API's hoti hen
+
+wire : data move kese hta he idhr se udhr
+optical Fiber: me light jati : Someone
+Photo send krne k Translate hogi then jah bhj
+data translate into signals
+Internet : was made for Military use purples communication setup
+Early Internet : ishara set
+Cadualities
+Binary number : Data Packet
+
+Internet wire : High current and low current
+high = 5 valt;  low = 2.5 valt
+Fiber optic cable:
+RJ 45 : WIFI
+interior designing : Fiber Obtics.
+1 second is 1 data considered
+
+1 second itime 1T,
+wese th bht se calculation hen
+1 second 1 bit bhjta hun
+data thourhg wire is the networking field
+data Back and forth kese ho raha hota he
+hame is ki software side pe rhna he.
+frontend se jo request jae gi us k 2 part huge
+1 HEAD  2 BODY
+get post put delete
+create a new resource on serve
+put request
+AXIOS : khud dekh leta lenth side of the server
+kisi ne slash user bhja kyu k he hi nhi response jae ga 404.
+
+shortest part to america
+PTCL server DNS
+Tranworld Mrine cable 
+through the routing table
+4 Status code : HTTP requst code Sucessful or fail or not.
+5 data he th lenth kya size kya he.
+AXIOS se api call nhi ki
+FAX: 
+AXIOS : Wheather APP : open Whether api
+JavaScript k object wale class k age pech hoge.
+
+Header k andr jo bhi bten wo server khud hi bna lega Express ka server
+
+bane ga th sab lkn hm nhi kre ge Framework ye kam krega.
+
+npm start start se koi bhi changes krte hun th server ko 2bara rok k chlana prta he.
+
+nodemon server.mjs
+nodemon space file ka name
+Earylier Node File ka name
+nodemon for Automatic Restart.
+
+first time command to solve 
+Sudo npm i -g nodemon
+npm i -g nodemon for deskstop
+
+agr windows me issue aae th app cmd ya run as administrative krte ussi k equal he sudo.
+
+start ka srf bgr run ke chlta he baki k saath RUN lagana prta he.
 
 
+npm run dev : command
 
+"dev": "nodemon Server.mjs" :
+ code in Package.json file
+ dev ki jaga koi name likh skte phr terminal me bhi wohi lkhna hoga
+
+npm run dev se request live mere computer k andr andr
+
+web Browser : localhost:3000/weather
+
+Broser se jo request jati hena wo srf get ki hoti he.
+
+index.html ka folder public k folder me lgana he.
+
+
+AXIOS liberaries link
+https://axios-http.com/docs/intro
+in website installation section 
+2 CDN 
+JS Delivr CDN,  unpkg CDN
+
+video : 116
+
+getting error when operating code.
+cors download krna install krna prta he
+
+bcuz we our host
+Cors: cross origin request handling k lye hota he ye
+Cors : Install      -> npm i cors
+lgane triqa : 
+
+params : URL prameters k lye params use krte hen
 
 
 
